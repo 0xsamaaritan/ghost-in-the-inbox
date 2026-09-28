@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+env/
+
+# Secrets - never commit these
+.env
+*.env
+
+# Personal scan results - these describe YOUR accounts, keep them private
+*.csv
+footprint*.txt
+footprint*.json
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Allow the fake demo data
+!sample_footprint.csv

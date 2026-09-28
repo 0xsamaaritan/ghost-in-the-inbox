@@ -1,0 +1,22 @@
+domain,category,email_count,first_seen,last_seen
+google.com,Tech & Productivity,23,2019-04-11,2026-03-04
+linkedin.com,Jobs & Careers,17,2020-08-02,2026-07-05
+github.com,Developer Tools & APIs,16,2020-01-19,2026-09-27
+udemy.com,Education & Learning,15,2020-03-19,2026-09-14
+binance.com,Crypto & Web3,15,2022-12-12,2025-04-25
+duolingo.com,Education & Learning,10,2021-05-15,2026-05-21
+paypal.com,Finance & Banking,8,2021-11-18,2026-09-03
+tryhackme.com,Cybersecurity & CTF,7,2022-01-13,2024-10-11
+kaggle.com,Developer Tools & APIs,6,2023-05-08,2025-02-27
+adobe.com,Design & Creative,6,2018-07-26,2026-09-17
+openai.com,AI Tools,5,2023-02-01,2026-08-10
+canva.com,Design & Creative,4,2021-06-30,2025-11-02
+zomato.com,Food & Drinks,4,2022-03-14,2024-12-09
+spotify.com,Entertainment & Movies,3,2019-09-05,2026-01-20
+reddit.com,"Social, Dating & Media",11,2020-02-17,2026-06-01
+medium.com,"Social, Dating & Media",5,2021-10-04,2025-09-12
+hostinger.com,Hosting & Domains,3,2022-08-21,2023-02-14
+calm.com,Health & Wellness,2,2021-01-09,2021-04-22
+amazon.com,Shopping & E-commerce,2,2019-12-01,2026-05-30
+oldforum-example.net,Uncategorized / Miscellaneous,1,2017-03-02,2017-03-02
+random-startup-example.io,Uncategorized / Miscellaneous,1,2018-11-19,2018-11-19

@@ -1,0 +1,2 @@
+# Optional but recommended: accurate domain parsing (amazon.co.uk, flipkart.co.in, ...)
+tldextract>=5.0.0
